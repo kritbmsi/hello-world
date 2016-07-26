@@ -5,5 +5,4 @@ void main(){
   int y = 2;
   int z = x+y;
   print("&d",z);
-  echo z;
 }
