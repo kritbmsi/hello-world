@@ -6,3 +6,5 @@ void main(){
   int z = x+y;
   print("&d",z);
 }
+
+//Test
