@@ -1,3 +1,3 @@
 ﻿#hello-world
 ﻿
-﻿จุ๊บๆ
+﻿An invitation will be appeared in the e-mail which was used to register Github.
